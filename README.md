@@ -4,7 +4,7 @@
     <img src="BannerPersonal.png" style="width:100%; height:auto;"/>
   </div>
   <div id="badges">
-    <a href="www.linkedin.com/in/juan-carlos-garzón-rodriguez-94457460">
+    <a href="https://www.linkedin.com/in/juan-carlos-garzón-rodriguez-94457460/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
